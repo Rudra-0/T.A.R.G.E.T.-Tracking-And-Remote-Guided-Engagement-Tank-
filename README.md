@@ -8,7 +8,6 @@ T.A.R.G.E.T. is a remote-controlled tank with autonomous targeting. It uses an E
 - [Software Components](#software-components)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
-- [Directory Structure](#directory-structure)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
