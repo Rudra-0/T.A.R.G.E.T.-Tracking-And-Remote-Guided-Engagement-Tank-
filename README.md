@@ -73,3 +73,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 - [OpenCV](https://opencv.org/)
 - [Arduino](https://www.arduino.cc/)
 
+Thank you for your contributions!
