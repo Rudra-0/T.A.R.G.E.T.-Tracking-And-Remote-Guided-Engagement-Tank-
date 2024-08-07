@@ -39,5 +39,29 @@ If you have a feature request, please open an issue [here](https://github.com/yo
    git clone https://github.com/yourusername/T.A.R.G.E.T.git
    cd T.A.R.G.E.T
 
+## Style Guides
+
+### Git Commit Messages
+- Use the present tense ("Add feature" not "Added feature").
+- Use the imperative mood ("Move cursor to..." not "Moves cursor to...").
+- Limit the first line to 72 characters or less.
+- Reference issues and pull requests liberally.
+
+### Code Style
+
+- Follow the PEP 8 style guide for Python code.
+- Use meaningful variable and function names.
+- Write comments and docstrings to explain the code.
+
+### Contributors
+- Rudransh Gupta
+- Glorious Phil
+- Vatsala Budur
+- Senorita Paul
+
+### Additional Resources
+- GitHub Docs
+- PEP 8 – Style Guide for Python Code
+- Open Source Guides
 
 
