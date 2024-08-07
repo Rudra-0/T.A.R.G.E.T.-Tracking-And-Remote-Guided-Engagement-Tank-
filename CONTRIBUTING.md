@@ -11,7 +11,7 @@ First off, thank you for considering contributing to T.A.R.G.E.T.! We appreciate
 - [Style Guides](#style-guides)
   - [Git Commit Messages](#git-commit-messages)
   - [Code Style](#code-style)
-- [Acknowledgements](#acknowledgements)
+- [Contributors](#contributors)
 - [Additional Resources](#additional-resources)
 
 ## Code of Conduct
